@@ -1,3 +1,13 @@
+
+#OS-Schedular
+#This is project is implemented with C language for Operating System Course for college
+
+#A CPU scheduler determines an order for the execution of its scheduled processes; it
+decides which process will run according to a certain data structure that keeps track
+of the processes in the system and their status.
+A process, upon creation, has one of the three states: Running, Ready, Blocked (doing
+I/O, using other resources than CPU or waiting on unavailable resource)
+
 ## headers.h contains clk functions, it should be included anywhere the clock functions are used.
 
 ## To get time call:
