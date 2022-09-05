@@ -1,6 +1,6 @@
 
 #OS-Schedular
-#This is project is implemented with C language for Operating System Course for college
+#This is project is implemented with C language for Operating System Course for the college
 
 #A CPU scheduler determines an order for the execution of its scheduled processes; it
 decides which process will run according to a certain data structure that keeps track
